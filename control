@@ -1,0 +1,9 @@
+Package: com.tonyk7.mgspoof-rootless
+Name: MGSpoof (Rootless)
+Depends: mobilesubstrate
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Description: Spoof MGCopyAnswer results for iOS 16 Rootless.
+Maintainer: YourName
+Author: Tony
+Section: Tweaks
